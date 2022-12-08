@@ -1,0 +1,2 @@
+#!/bin/bash
+ls *.js > delete_js | rm delete_js
